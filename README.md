@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # clockproj
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter_clockProj
+World Clock project in flutter, which gives time of the selected location when clicked
+>>>>>>> af8d9fc760e0f7ef44c8942266d1a16375b857b1
